@@ -1,0 +1,5 @@
+*://*.henankucun.com/*
+*://*.zkfgw.com/*
+*://*.enmsb.com/*
+*://*.bajiaoyingshi.com/*
+*://*.ttyshi.com/*
